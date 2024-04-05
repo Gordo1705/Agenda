@@ -5,8 +5,12 @@
 # Integrantes: 
 
 • Drago
+
 • Poncet
+
 • Torres
+
 • Torrico
+
 • Vernazza
 
