@@ -4,13 +4,13 @@
 
 # Integrantes: 
 
-• Drago
+• Drago - DBA
 
-• Poncet
+• Poncet - DBA
+ 
+• Torres - DISEÑO
 
-• Torres
+• Torrico - DISEÑO
 
-• Torrico
-
-• Vernazza
+• Vernazza - PM
 
