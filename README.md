@@ -6,13 +6,20 @@
 
 • Drago - DBA
 
-• Poncet - DBA
+• Poncet - DEVELOP
  
 • Torres - DISEÑO
 
-• Torrico - DISEÑO
+• Torrico - TESTER
 
 • Vernazza - PM
+
+# Sprint 2 
+
+* Login con sus funcionalidades
+* Registro con sus funcionalidades
+* Base de datos del login
+* Tester
 
 Correccion de Issues: 
 
