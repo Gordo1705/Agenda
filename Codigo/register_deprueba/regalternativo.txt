@@ -1,0 +1,1 @@
+reemplazar register.js en la carpeta root del proyecto por el register en esta carpeta :D
