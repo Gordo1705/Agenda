@@ -7,11 +7,17 @@ PASOS PARA CORRER LA APP:
 3- Instalar dependencias:
 
 npm install -g expo-cli
+
 npm install @react-navigation/native @react-navigation/stack
+
 npm install react-native
+
 npm install firebase
+
 npm install @firebase/auth
+
 npm install @firebase/app
+
 
 4- reiniciar consola, ingresar a la ruta de my-app y npm start
 
