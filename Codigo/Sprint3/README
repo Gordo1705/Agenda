@@ -1,1 +1,19 @@
-Pasos para poder deployar la aplicacion
+Pasos para Establecer el sistema y que el codigo funcione correctamente
+
+1) Instalar expo: npm expo install  
+
+2) Descargar el zip de este mismo directorio, y abrir el editor de codigo que vayamos a utilizar
+
+3) Instalar Dependencias Navigation, para poder moverse entre paginas: npm install @react-navigation/native
+                                                                       npm install react-native-screens react-native-safe-area-context
+
+4) Instalar Dependencias Firebase: npm install firebase
+                                   npm install @react-native.firebase/app
+                                   npm install @react-native-firebase/auth
+
+
+
+5) Instalar Dependencias de Ionicons: npm install react-native-vector-icons
+  
+6)En la teminal, y situados en la carpeta con el codigo, escribir el comando, con el cual iniciaremos la aplicacion: npx expo start
+
