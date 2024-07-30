@@ -1,7 +1,7 @@
 En esta carpeta ira el codigo del proyecto 
 
-# Sprint 3
+# Sprint 4
 
-- Redireccion del Login a pantalla principal 
-- Pantalla principal (Solo la estructura visual)
+- Menu desplegable en pantalla principal
+- Poder crear calendarios y que se reflejen en la pantalla principal
 
