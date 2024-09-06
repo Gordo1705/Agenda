@@ -1,0 +1,6 @@
+Si bien tanto el login y el registro de modo claro eran similares a las respectivas pantallas realizadas para la aplicación, se detectaron pequeñas imperfecciones del mismo, de las cuales se debera de modificar para que cumplan con lo pedido.
+1- El titulo del login "¡Bienvenido de nuevo!" Debe de ser más grande, para que haya una diferencia entre los demás textos, la fuente tiene que al menos ser de un maximo de 32 de tamaño "Semibold"  y el tipo de fuente es "Poppins".
+2- El color del los botones para loguearse y registrarse es "#16191F" y para las letras del mismo boton "#FFFFFF".
+3- En las respectivas pantallas nunca existio el boton "github", solo la opcion de acceder con google.
+4- En el registro corregir "comenzemos" por "comencemos".
+5- Tanto en el login como en el registro faltan los pequeños logos que se encuentran al lado de "ingresar contraseña", "ingresar email" e "ingresar nro de telefono".
