@@ -1,9 +1,8 @@
 En esta carpeta ira el codigo del proyecto 
 
-# Sprint 4
+# Sprint 5
 
-- Menu desplegable en pantalla principal
-- Funcionalidades del mismo, botones o elementos que contenga
-- Seccion Ayuda o Preguntas Frecuentes
-- Preparar base de datos para recuperar los calendarios de un usuario
+- Pantallas de Calendario(Con sus respectivas ampliaciones, es decir, viendolas por mes)
+- Funcionalidades de la pantalla de inicio(carrousel a las agendas y cierre de sesion desde menu hamburguesa)
+- Interaccion de base de datos con la aplicacion. Recuperar calendarios de un usuario.
 
